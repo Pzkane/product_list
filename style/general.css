@@ -1,0 +1,28 @@
+body {
+	padding: 20px;
+}
+
+.header-params {
+	border-bottom: solid;
+	margin-bottom: 30px;
+}
+
+.button
+{
+	position: relative;
+	top: 20px;
+	float: right;
+	border-bottom: 1px solid #777777;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #333333;
+    border-top: 1px solid #000000;
+    color: #000000;
+    text-align: center;
+    height: 2.5em;
+    width: 7em; 
+}
+
+.button:hover
+{
+	background-color: lightgray;
+}
